@@ -6,7 +6,7 @@ namespace Project001
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Project-001 : Feature001 branch");
+            Console.WriteLine("Project-001 : Feature002 branch");
         }
     }
 }
