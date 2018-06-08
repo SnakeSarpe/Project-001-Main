@@ -1,0 +1,11 @@
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.deps.json
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.runtimeconfig.json
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.runtimeconfig.dev.json
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.dll
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.pdb
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.csprojResolveAssemblyReference.cache
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.csproj.CoreCompileInputs.cache
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.AssemblyInfoInputs.cache
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.AssemblyInfo.cs
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.dll
+f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.pdb
