@@ -8,10 +8,7 @@ namespace Project001
         {
 
            Console.WriteLine("Project-001 : Main branch");
-          int x = 0;
-           //Console.WriteLine("Project-001 : Feature002 branch");
-            Console.WriteLine("Project-001 : Main branch");
-            Console.WriteLine("Project-001 : Feature001 branch");
+           Console.WriteLine("back to origin");
         }
     }
 }
