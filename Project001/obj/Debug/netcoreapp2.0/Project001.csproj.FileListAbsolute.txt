@@ -9,3 +9,14 @@ f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcore
 f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.AssemblyInfo.cs
 f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.dll
 f:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.pdb
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.deps.json
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.runtimeconfig.json
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.runtimeconfig.dev.json
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.dll
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\bin\Debug\netcoreapp2.0\Project001.pdb
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.csprojAssemblyReference.cache
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.csproj.CoreCompileInputs.cache
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.AssemblyInfoInputs.cache
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.AssemblyInfo.cs
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.dll
+D:\SAMPLES-GITHUB\Project-001-Main\Project001\obj\Debug\netcoreapp2.0\Project001.pdb

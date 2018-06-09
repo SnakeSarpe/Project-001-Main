@@ -664,28 +664,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\enr5wsn\\.nuget\\packages\\": {},
+    "C:\\Users\\Radum\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WX-RADU-TESTS\\DOTNET CORE TESTS\\Project-001-Main\\Project001\\Project001.csproj",
+      "projectUniqueName": "d:\\SAMPLES-GITHUB\\Project-001-Main\\Project001\\Project001.csproj",
       "projectName": "Project001",
-      "projectPath": "F:\\WX-RADU-TESTS\\DOTNET CORE TESTS\\Project-001-Main\\Project001\\Project001.csproj",
-      "packagesPath": "C:\\Users\\enr5wsn\\.nuget\\packages\\",
-      "outputPath": "F:\\WX-RADU-TESTS\\DOTNET CORE TESTS\\Project-001-Main\\Project001\\obj\\",
+      "projectPath": "d:\\SAMPLES-GITHUB\\Project-001-Main\\Project001\\Project001.csproj",
+      "packagesPath": "C:\\Users\\Radum\\.nuget\\packages\\",
+      "outputPath": "d:\\SAMPLES-GITHUB\\Project-001-Main\\Project001\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\enr5wsn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Radum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -3,11 +3,11 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
-    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">F:\WX-RADU-TESTS\DOTNET CORE TESTS\Project-001-Main\Project001\obj\project.assets.json</ProjectAssetsFile>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">D:\SAMPLES-GITHUB\Project-001-Main\Project001\obj\project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\enr5wsn\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Radum\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.5.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.7.0</NuGetToolVersion>
   </PropertyGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
